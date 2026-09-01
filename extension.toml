@@ -2,9 +2,6 @@ id = "ember-n-ash"
 name = "Ember n Ash"
 version = "0.1.0"
 schema_version = 1
-authors = ["bashln", "Hydradevx (Original Palette)"]
-description = "A warm, smoky aesthetic for Zed — deep charcoals and ashy grays kissed with soft ember light. Ported by bashln, based on omarchy-ember-n-ash-theme by Hydradevx."
+authors = ["bashln", "Hydradevx"]
+description = "A warm, smoky aesthetic for Zed — deep charcoals and ashy grays kissed with soft ember light."
 repository = "https://github.com/bashln/zed-ember-n-ash-theme"
-
-[themes]
-"Ember n Ash" = "themes/ember-n-ash.json"
